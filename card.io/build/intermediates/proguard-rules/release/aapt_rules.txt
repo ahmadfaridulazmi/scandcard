@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:20
+-keep class io.card.payment.CardIOActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class io.card.payment.DataEntryActivity { <init>(...); }
+
